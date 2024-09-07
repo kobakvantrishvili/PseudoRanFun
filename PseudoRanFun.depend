@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1618048301 source:d:\programming\c\pseudoranfun\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1617810685 source:d:\programming\c\pseudoranfun\pseudoranfuna.s
+
+1617809890 source:d:\programming\c\pseudoranfun\pseudoranfunc.c
+
